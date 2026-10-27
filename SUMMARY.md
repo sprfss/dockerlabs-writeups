@@ -1,3 +1,5 @@
 # Table of contents
 
-* [Page](README.md)
+* [Introducción](README.md)
+
+## Labs
